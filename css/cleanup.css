@@ -19,13 +19,9 @@ div#wall div.parent div#tag-5.slick { /*223*/
   display: none;
 }
 
-/* Tag 6 -> 224 */
-
 body div#wall div.parent div:last-child div#tag-6 { /*225*/
   display: none;
 }
-
-/* Tag 7 -> 224 */
 
 body div#wall div.parent div > div#tag-7.slick { /*225*/
   display: none;
