@@ -1,5 +1,5 @@
 /* write your override styles here */
-.tag1 {
+.tag-1 {
   display: none;
 }
 
@@ -20,5 +20,9 @@
 }
 
 #tag-5 {
+  display: none;
+}
+
+#tag-7 {
   display: none;
 }
